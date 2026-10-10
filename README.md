@@ -1,4 +1,4 @@
-# Language language
+# Makelang
 
 Language is a "language" for codegen-ing other languages. It's implemented with a bunch of _fun_ M4 macros! Don't believe me? Let's see:
 
